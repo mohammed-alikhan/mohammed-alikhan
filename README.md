@@ -20,7 +20,6 @@ I'm a 25-year-old developer based in Chicago, and I'm passionate about crafting 
 
 - Soccer ⚽
 - Video Games 🎮
-- I love using Mac after switching from Linux.
 
 ## 📫 Contact
 
