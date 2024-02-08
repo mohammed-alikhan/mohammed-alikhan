@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Mohammed 👋🏽
+I'm a 25-year-old developer based in Chicago, and I'm passionate about crafting digital experiences.
 
-<!--
-**mohammed-alikhan/mohammed-alikhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check out my [website](https://mohammed-alikhan.github.io/portfolio-new/) to learn more about me.
 
-Here are some ideas to get you started:
+📦 Toolbox
+Frontend Development: React CSS Material-UI Bootstrap Npm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend Development: Node.js MySQL Firebase MongoDB
+
+Version Control: Git GitLab Bitbucket
+
+Testing: Postman
+
+Others: Scrum Data Acquisition
+
+✨ Fun Facts
+Soccer ⚽
+Video Games 🎮
+📫 Contact
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mohammed-alikhan/).
