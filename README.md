@@ -7,9 +7,8 @@ Aspiring Software / Web Developer
 I'm a 25-year-old developer with a master's degree in computer science who works in Chicago.
 
 * 🌍  I'm based in Chicago, IL
-* 🖥️  See my portfolio at [\[Website\]](http://https://mohammed-alikhan.github.io/portfolio-new)
+* 🖥️  See my portfolio at [\[Website\]](https://mohammed-alikhan.github.io/portfolio-new/)
 * ✉️  You can contact me at [connectwithalikhan@gmail.com](mailto:connectwithalikhan@gmail.com)
-* 🧠  I'm learning Microsoft Fabric Analytics Engineering
 * ⚡  Fun Facts: A Soccer ⚽ and Video games 🎮 fanatic!
 
 ### Skills
